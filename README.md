@@ -1,4 +1,6 @@
 NewsApp
+
+
 Welcome to NewsApp - a modern news application built with ReactJS and styled using Bootstrap. This application provides a clean and responsive interface to stay updated with the latest news from around the world.
 
 Features
